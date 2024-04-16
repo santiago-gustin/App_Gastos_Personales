@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144827513427",
+    "project_id": "app-control-gastos-282f1",
+    "storage_bucket": "app-control-gastos-282f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144827513427:android:34b81cdc18d89738dc64a6",
+        "android_client_info": {
+          "package_name": "com.santiagogustin.gastos_personales_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFCmT442wE7VUHz7aE4eq0KSoZTwje3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
